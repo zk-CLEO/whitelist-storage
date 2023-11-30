@@ -1,6 +1,6 @@
 {
   "ips": ["10.10.0.10", "127.0.0.1", "10.0.10.98"],
-  "public_keys": [""],
+  "public_keys": ["0x97d0d49fca22f6fe73ebca6f5dbdd536a22cfce2"],
   "hash_server_tokens": [
     "60e9ebe2a3406b3a6940a7233509ab6d14a347b48567ae9fc4d6f852a30a72f0",
     "e035d6a3fc48a809d82cfb77a2a98ce143fa784b839f7ca8957a56da5908088e",
