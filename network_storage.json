@@ -1,10 +1,5 @@
 {
-  "status": 201,
-  "statusText": "Created",
-  "headers": {
-    "Content-Type": "application/json",
-  },
-  "body":{
+
     "ips": ["10.10.0.10", "127.0.0.1", "10.0.10.98"],
     "public_keys": ["0x97d0d49fca22f6fe73ebca6f5dbdd536a22cfce2"],
     "hash_server_tokens": [
@@ -20,5 +15,5 @@
       "0a273c7dceca3773a4d18ad07af404cf6420ba765fb87b821c9b1162f018d70b",
       "6815bdf72adad9305f4444d48f9f311ac5fa0edcd4d725b5f9da0763545e6625"
     ]  
-  }
+  
 }
